@@ -46,7 +46,9 @@
         "mahmoudmy/naaab.ir",
         "mostafa/react-native-fullscreen-video",
         "msudgh/icu-loader",
-        "ali-master/persian-tools"
+        "ali-master/persian-tools",
+        "amirfrsd/Simple-Nodie-Proxy",
+        "amirfrsd/Gramaphone"
       ]
     },
     {
@@ -96,7 +98,9 @@
         "mostafa/Good-Old-Kott",
         "mostafa/simplru",
         "msudgh/syncshell",
-        "msudgh/terminator-search"
+        "msudgh/terminator-search",
+        "amirfrsd/TuriCreate-Example",
+        "amirfrsd/Python-Image-Processing"
       ]
     },
     {
@@ -121,7 +125,8 @@
         "forester-coder/Telegram",
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
-        "NabiKAZ/namava-downloader"
+        "NabiKAZ/namava-downloader",
+        "amirfrsd/Notie-PHP"
       ]
     },
     {
@@ -218,7 +223,9 @@
       "category": "Swift",
       "repos": [
         "mamal72/lyricsify-mac",
-        "amosavian/FileProvider"
+        "amosavian/FileProvider",
+        "amirfrsd/AFShamsiDateConvert",
+        "amirfrsd/AFLicense"
       ]
     },
     {
@@ -246,12 +253,24 @@
       ]
     },
     {
+      "category": "Objective-C",
+      "repos": [
+        "amirfrsd/ZarinPal",
+        "amirfrsd/FSCalendar-PersianCal",
+        "amirfrsd/Notie-iOS",
+        "amirfrsd/AFHTMLParser",
+        "amirfrsd/InstaProfile",
+        "amirfrsd/InstaDown"
+      ]
+    }
+    {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
         "arastu/iran",
         "mostafa/gnulinux-book",
-        "mostafa/iptables_book"
+        "mostafa/iptables_book",
+        "amirfrsd/speedtest-spoofer"
       ]
     }
   ]
